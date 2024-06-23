@@ -7,6 +7,8 @@ Zathura-Pywal is a set of helper scripts that dynamically theme zathura based on
 
 ## Installation
 
+Add `$HOME/.local/bin` to your PATH.
+
 To install, simply move into the clone directory and run `./install.sh`
 
 You can toggle normal colors by pressing `Ctrl+r`
